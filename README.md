@@ -5,7 +5,7 @@ _The following notes are discoveries made while attempting to figure out
 how this mess works.  They are here so that you, poor soul that you are,
 don't have to reinvent the wheel (well, at least not the whole thing)._
 
-Hopefully my projects don't cause you anywere near this level of frustration.
+Hopefully my projects don't cause you anywhere near this level of frustration.
 
 <!--
 **JacksonBurns/JacksonBurns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
