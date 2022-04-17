@@ -7,5 +7,5 @@ don't have to reinvent the wheel (well, at least not the whole thing)._
 
 Hopefully my projects don't cause you anywhere near this level of frustration.
 
-[![Jackson Burns's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksonburns&count_private=true&hide=contribs&show_icons=true&hide_rank=true&custom_title=Github%20Stats&include_all_commits=true&disable_animations=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonburns&layout=compact&disable_animations=true&hide=jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jackson Burns's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksonburns&count_private=true&hide=contribs&show_icons=true&hide_rank=true&custom_title=Github%20Stats&include_all_commits=true&theme=graywhite&disable_animations=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonburns&hide=jupyter%20notebook&theme=graywhite&disable_animations=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
